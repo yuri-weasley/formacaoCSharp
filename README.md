@@ -1,5 +1,8 @@
 # formacaoCSharp
-Repositório com os cursos da formação de C#
+Repositório com os cursos das formações de C#
 
-## Pastas:
-- projeto-musical: criação de uma aplicação Backend para um sistema de músicas com os instrutores Guilherme Lima e Daniel Portugal na escola de programação da Alura;
+## Formações
+
+### Aprenda a programar em C# com Orientação a Objetos:
+
+- projeto-musical: criação de uma aplicação Backend para um sistema de músicas no curso "C#: criando sua primeira aplicação" com os instrutores Guilherme Lima e Daniel Portugal;
